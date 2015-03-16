@@ -47,3 +47,8 @@
   code: vi
   description: Bootstrap bằng tiếng Việt
   url: http://getbootstrap.com.vn
+
+- name: Brazilian Portuguese
+  code: pt-br
+  description: Bootstrap em Português do Brasil
+  url: http://globocom.github.io/bootstrap/
